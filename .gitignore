@@ -1,0 +1,12 @@
+venv/
+.venv/
+Lib/
+__pycache__/
+*.dll
+*.pkl
+vectorstore/
+.vscode/
+.env
+
+
+

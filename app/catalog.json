@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com",
+    "description": "Java programming assessment for developers.",
+    "test_type": "K"
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com",
+    "description": "Personality assessment for workplace behavior.",
+    "test_type": "P"
+  },
+  {
+    "name": "Verify G+",
+    "url": "https://www.shl.com",
+    "description": "Cognitive ability assessment.",
+    "test_type": "A"
+  }
+]
